@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".CustomerDetails.CustomerDetailsOneFragment">
+
+    <RelativeLayout
+        android:id="@+id/llTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/ivback"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_back"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/ivback"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="Customer Details"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"></TextView>
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/llTop"
+        android:fillViewport="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:fontFamily="@font/poppins_semibold"
+                android:text="Customer Info"
+                android:textColor="@color/DRed"
+                android:textSize="18dp"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="First Name"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <EditText
+                android:id="@+id/edtName"
+                android:textAllCaps="true"
+                android:inputType="textCapCharacters"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:fontFamily="@font/poppins_light"
+                android:hint="First Name"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="Last Name"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <EditText
+                android:id="@+id/edtLastName"
+               android:inputType="textCapCharacters"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Last Name"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="Contact"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <EditText
+                android:id="@+id/edtPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Contact"
+                android:maxLength="10"
+                android:inputType="number"
+                android:padding="15dp"
+                android:singleLine="true"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="Email"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <EditText
+                android:id="@+id/edtEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Email"
+                android:singleLine="true"
+                android:inputType="textEmailAddress"
+                android:padding="15dp"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="Pincode"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <EditText
+                android:id="@+id/edtPincode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Pincode"
+                android:maxLength="6"
+                android:inputType="number"
+                android:padding="15dp"
+                android:textSize="15dp"></EditText>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="State"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <TextView
+                android:id="@+id/tvState"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:drawableRight="@drawable/ic_baseline_arrow_drop_down_24"
+                android:fontFamily="@font/poppins_light"
+                android:hint="State"
+                android:padding="15dp"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="District"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <TextView
+                android:id="@+id/tvDistrict"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:drawableRight="@drawable/ic_baseline_arrow_drop_down_24"
+                android:fontFamily="@font/poppins_light"
+                android:hint="District"
+                android:padding="15dp"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="Choose Location"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <TextView
+                android:id="@+id/tvLocation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:drawableRight="@drawable/ic_baseline_arrow_drop_down_24"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Choose Location"
+                android:padding="15dp"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="Source"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <TextView
+                android:id="@+id/tvSource"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:drawableRight="@drawable/ic_baseline_arrow_drop_down_24"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Source"
+                android:padding="15dp"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:fontFamily="@font/poppins_light"
+                android:text="Sub Source"
+                android:textColor="@color/DRed"
+                android:textSize="10dp"></TextView>
+
+            <TextView
+                android:id="@+id/tvSubsource"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:background="@drawable/edittext_background"
+                android:drawableRight="@drawable/ic_baseline_arrow_drop_down_24"
+                android:fontFamily="@font/poppins_light"
+                android:hint="Sub Source"
+                android:padding="15dp"
+                android:textColor="@color/ash"
+                android:textColorHint="@color/ash"
+                android:textSize="15dp"></TextView>
+
+            <TextView
+                android:id="@+id/tvNext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginTop="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="30dp"
+                android:background="@drawable/red_button_background_two"
+                android:drawableRight="@drawable/ic_baseline_arrow_forward_ios_24"
+                android:drawablePadding="20dp"
+                android:fontFamily="@font/poppins_semibold"
+                android:paddingLeft="50dp"
+                android:paddingTop="12dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="12dp"
+                android:text="Next"
+                android:textColor="@color/white"
+                android:textSize="20dp"
+                android:textStyle="bold">
+
+            </TextView>
+        </LinearLayout>
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"></ProgressBar>
+</RelativeLayout>

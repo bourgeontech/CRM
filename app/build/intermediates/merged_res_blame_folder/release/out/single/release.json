@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_emoji_people_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_emoji_people_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_ic_date_selection.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_date_selection.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_row_lead.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\row_lead.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_add.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_add.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_logout.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_fiber_new_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_fiber_new_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_ic_date_selection.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_date_selection.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_dgrey_button.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\dgrey_button.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_type_list.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_type_list.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_leads_task.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_leads_task.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_row_lead_three.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\row_lead_three.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_call_profile.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_call_profile.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_ic_message_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_message_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_blue_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_row_status.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\row_status.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_date_range_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_date_range_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_ic_back.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_ic_call_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_call_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_view_lead.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_view_lead.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_supervised_user_circle_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_supervised_user_circle_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_ic_edit_3_dots.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_edit_3_dots.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_ic_message_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_message_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_row_suggest.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\row_suggest.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\font_poppins_semibold.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\font\\poppins_semibold.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_green_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\green_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_ic_call_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_call_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_menu_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_menu_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_phone_android_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_phone_android_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_follow_up_bottomsheet.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\follow_up_bottomsheet.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_orange_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\orange_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_message_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_message_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_follow_up_bottomsheet_two.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\follow_up_bottomsheet_two.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_ic_edit_3_dots.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_edit_3_dots.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_grey_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\grey_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_report.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_activity_container.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\activity_container.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_everi_logo_with_tagline.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\everi_logo_with_tagline.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_follow_the_signs_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_follow_the_signs_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_profile_lead.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_profile_lead.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_edit_3_dots.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_edit_3_dots.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_ic_back.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_ic_logout.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_calender_text_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\calender_text_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_ic_date_selection.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_date_selection.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_date_selection.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_date_selection.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_ic_edit_3_dots.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_edit_3_dots.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_arrow_forward_ios_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_ios_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_back.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_list_row.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_logout.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_logout.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_date_selection.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_date_selection.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_deals.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_deals.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_bottom_menu.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\bottom_menu.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\font_poppins_light.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\font\\poppins_light.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_customer_details_one.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_customer_details_one.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_ic_date_selection.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_date_selection.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-ldpi_ic_logout.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_refresh.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_refresh.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_red_button_background_two.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\red_button_background_two.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_prefferd_layout.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\prefferd_layout.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_lite_green_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\lite_green_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_red_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\red_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_red_line_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\red_line_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_type_list_two.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_type_list_two.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_refresh.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_customer_details_four.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_customer_details_four.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-ldpi_ic_edit_3_dots.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_edit_3_dots.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_row_current.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\row_current.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_ic_refresh.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_ic_edit_3_dots.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_edit_3_dots.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_dashboard.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_ic_call_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_call_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\menu_activity_main_drawer.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_nav_header_main.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_customer_details_three.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_customer_details_three.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_ic_call_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_call_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_everi_logo_without_tagline.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_everi_logo_without_tagline.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_progress_loading.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\progress_loading.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_ic_call_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_call_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_alternate_email_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_alternate_email_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-ldpi_ic_date_selection.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_date_selection.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_arrow_drop_down_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_drop_down_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_remark.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_remark.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_suggested_layout.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\suggested_layout.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_leads.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_leads.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-ldpi_ic_call_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_call_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_lite_red_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\lite_red_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_edittext_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_close_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_activity_login.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_back.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_back.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_status.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\font_alice.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\font\\alice.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-ldpi_ic_refresh.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_arrow_forward_.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_forward_.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_everi_logo_with_tagline.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_everi_logo_with_tagline.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_activity_main.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_ic_refresh.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_message_profile.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_message_profile.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_ic_refresh.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_violet_button_background.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\violet_button_background.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_success.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_success.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_ic_message_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_message_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-ldpi_ic_message_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_message_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_row_lead_two.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\row_lead_two.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-ldpi_ic_back.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_customer_details_two.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_customer_details_two.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_ic_refresh.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_ic_message_profile.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_message_profile.png"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_edittext_background_two.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\edittext_background_two.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable-anydpi-v24_ic_edit_3_dots.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_edit_3_dots.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_fragment_user_profile.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\fragment_user_profile.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\layout_activity_splash.xml.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\BPRojects\\CRM\\app\\build\\intermediates\\merged_res\\release\\drawable_success.png.flat",
+        "source": "F:\\BPRojects\\CRM\\app\\src\\main\\res\\drawable\\success.png"
+    }
+]

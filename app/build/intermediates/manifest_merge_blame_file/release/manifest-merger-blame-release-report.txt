@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.git.crm"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:5:5-79
+11-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:6:5-67
+12-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.CALL_PHONE" />
+13-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:7:5-69
+13-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:7:22-66
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:8:5-75
+14-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:8:22-72
+15
+16    <application
+16-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:9:5-37:19
+17        android:allowBackup="false"
+17-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:10:9-36
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.7.0] C:\Users\User\.gradle\caches\transforms-3\2211b2af80c2040823aefb9bbce90544\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+19        android:icon="@mipmap/ic_launcher"
+19-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:12:9-43
+20        android:label="@string/app_name"
+20-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:13:9-41
+21        android:roundIcon="@mipmap/ic_launcher"
+21-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:14:9-48
+22        android:supportsRtl="true"
+22-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:15:9-35
+23        android:theme="@style/Theme.CRM"
+23-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:16:9-41
+24        android:usesCleartextTraffic="true" >
+24-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:11:9-44
+25        <activity
+25-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:17:9-20:40
+26            android:name="com.git.crm.MainActivity"
+26-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:18:13-41
+27            android:exported="false"
+27-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:20:13-37
+28            android:screenOrientation="portrait" />
+28-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:19:13-49
+29        <activity
+29-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:21:9-23:40
+30            android:name="com.git.crm.Login.LoginActivity"
+30-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:22:13-48
+31            android:exported="false" />
+31-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:23:13-37
+32        <activity
+32-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:24:9-32:20
+33            android:name="com.git.crm.Splash.SplashActivity"
+33-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:25:13-50
+34            android:exported="true" >
+34-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:26:13-36
+35            <intent-filter>
+35-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:27:13-31:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:28:17-69
+36-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:28:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:30:17-77
+38-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:30:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <meta-data
+42-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:34:9-36:57
+43            android:name="preloaded_fonts"
+43-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:35:13-43
+44            android:resource="@array/preloaded_fonts" />
+44-->F:\BPRojects\CRM\app\src\main\AndroidManifest.xml:36:13-54
+45
+46        <provider
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\User\.gradle\caches\transforms-3\39db454ca943e4d6ae7bf175ff33fbf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+47            android:name="androidx.startup.InitializationProvider"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\User\.gradle\caches\transforms-3\39db454ca943e4d6ae7bf175ff33fbf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+48            android:authorities="com.git.crm.androidx-startup"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\User\.gradle\caches\transforms-3\39db454ca943e4d6ae7bf175ff33fbf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+49            android:exported="false" >
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\User\.gradle\caches\transforms-3\39db454ca943e4d6ae7bf175ff33fbf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+50            <meta-data
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\User\.gradle\caches\transforms-3\39db454ca943e4d6ae7bf175ff33fbf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+51                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\User\.gradle\caches\transforms-3\39db454ca943e4d6ae7bf175ff33fbf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+52                android:value="androidx.startup" />
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\User\.gradle\caches\transforms-3\39db454ca943e4d6ae7bf175ff33fbf8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+53            <meta-data
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\.gradle\caches\transforms-3\4dc7c0429757f6a5acea98e5401439bf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+54                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\.gradle\caches\transforms-3\4dc7c0429757f6a5acea98e5401439bf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+55                android:value="androidx.startup" />
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\.gradle\caches\transforms-3\4dc7c0429757f6a5acea98e5401439bf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+56        </provider>
+57    </application>
+58
+59</manifest>
